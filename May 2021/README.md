@@ -18,3 +18,7 @@
           Scikit-learn
           Tensorflow
           Keras
+### Procedure :     
+1. Upload the Notebook in Google Colab.
+2. Upload the api key shared on your kaggle profile.
+3. Run the notebook .
