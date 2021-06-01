@@ -1,4 +1,4 @@
-# Tabular Playground Series May 2021 :
+# Tabular Playground Series June 2021 :
 ---
 
 ### Competition Link - https://www.kaggle.com/c/tabular-playground-series-jun-2021
